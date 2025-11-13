@@ -1,0 +1,5 @@
+{
+  "name": "Gemini API Error Handling Showcase",
+  "description": "A web application to demonstrate and test different error scenarios when interacting with the Google Gemini API. Users can select various error types to see how the API responds and how to handle them gracefully in a React application.",
+  "requestFramePermissions": []
+}
